@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Dave Gillem</h1>
-<h3 align="center">I am a UI Architect, Front-end Developer, Designer, and Digital Artist. I am a "UI-Guy"​ by choice, it's what I like, it's what I do.</h3>
 
-### :boom: I am well experienced with:
+# <img src="https://www.davegillem.com/images/svg/dg-logo.svg" alt="DG Logo" width="30" height="30"/> Hi, I'm Dave Gillem 
+I am a UI Architect, Front-end Developer, Designer, and Digital Artist. I am a "UI-Guy" by choice, it's what I like, it's what I do.
+
+## I am well experienced with:
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
@@ -22,13 +23,13 @@
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=davegillem&layout=compact&hide=html" alt="davegillem" />
 
 
-### 🌱 I’m currently learning:
+## I’m currently learning:
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
   </p>
 
-### :mag: You can find me online at:
+## You can find me online at:
 <p align="left">
 <a href="https://codepen.io/davegillem" target="blank">
 <img  src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" alt="davegillem" height="30" width="30" />
