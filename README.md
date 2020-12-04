@@ -20,8 +20,12 @@ I am a UI Architect, Front-end Developer, Designer, and Digital Artist. I am a "
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="I know Adobe Illustrator" width="40" height="40" hspace="20" />
 </p>
 
-
-![Dave Gillem's github stats](https://github-readme-stats.vercel.app/api?username=davegillem&show_icons=true&theme=vue-dark&count_private=true&langs_count=5&include_all_commits=true) ![github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=davegillem&show_icons=true&theme=vue-dark&count_private=true&langs_count=5&include_all_commits=true&include_all_commits=true&hide=html) 
+<a href="https://github.com/davegillem/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=davegillem&show_icons=true&theme=vue-dark&count_private=true&langs_count=5&include_all_commits=true" />
+</a>
+<a href="https://github.com/davegillem">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davegillem&show_icons=true&theme=vue-dark&count_private=true&langs_count=5&include_all_commits=true&hide=html"  hspace="20" />
+</a>
 
 <sub><sup><i><b>NOTE:</b> Top languages does not indicate my skill level or preference, it's only a github metric of which languages I have checked in most</i></sup></sub>
 
