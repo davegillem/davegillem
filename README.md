@@ -8,6 +8,7 @@ I am a UI Architect, Front-end Developer, Designer, and Digital Artist. I am a "
 <a href="https://github.com/davegillem">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davegillem&show_icons=true&theme=vue-dark&count_private=true&langs_count=5&include_all_commits=true&hide=html"  hspace="20" />
 </a>
+
 <sub><sup><i><b>NOTE:</b> Top languages does not indicate my skill level or preference, it's only a github metric of which languages I have checked in most</i></sup></sub>
 
 ## I am well experienced with:
