@@ -2,6 +2,14 @@
 # <img src="https://www.davegillem.com/images/svg/dg-logo.svg" alt="DG Logo" width="30" height="30" hspace="20" /> Hi, I'm Dave Gillem 
 I am a UI Architect, Front-end Developer, Designer, and Digital Artist. I am a "UI-Guy" by choice, it's what I like, it's what I do.
 
+<a href="https://github.com/davegillem/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=davegillem&show_icons=true&theme=vue-dark&count_private=true&langs_count=5&include_all_commits=true" />
+</a>
+<a href="https://github.com/davegillem">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davegillem&show_icons=true&theme=vue-dark&count_private=true&langs_count=5&include_all_commits=true&hide=html"  hspace="20" />
+</a>
+<sub><sup><i><b>NOTE:</b> Top languages does not indicate my skill level or preference, it's only a github metric of which languages I have checked in most</i></sup></sub>
+
 ## I am well experienced with:
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="I know Javascript" width="40" height="40" hspace="20" />
@@ -19,15 +27,6 @@ I am a UI Architect, Front-end Developer, Designer, and Digital Artist. I am a "
   <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="I know Adobe Photoshop" width="40" height="40" hspace="20" />
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="I know Adobe Illustrator" width="40" height="40" hspace="20" />
 </p>
-
-<a href="https://github.com/davegillem/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=davegillem&show_icons=true&theme=vue-dark&count_private=true&langs_count=5&include_all_commits=true" />
-</a>
-<a href="https://github.com/davegillem">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davegillem&show_icons=true&theme=vue-dark&count_private=true&langs_count=5&include_all_commits=true&hide=html"  hspace="20" />
-</a>
-
-<sub><sup><i><b>NOTE:</b> Top languages does not indicate my skill level or preference, it's only a github metric of which languages I have checked in most</i></sup></sub>
 
 ### I’m currently learning:
 <p align="left">
