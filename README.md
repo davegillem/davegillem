@@ -37,9 +37,6 @@ I am a UI Architect, Front-end Developer, Designer, and Digital Artist. I am a "
 <a href="https://dev.to/davegillem" target="blank">
 <img  src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="davegillem" height="30" width="30" />
 </a>
-<a href="https://twitter.com/davegillem" target="blank">
-<img  src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="davegillem" height="30" width="30" />
-</a>
 <a href="https://linkedin.com/in/davegillem" target="blank">
 <img  src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="davegillem" height="30" width="30" />
 </a>
@@ -49,13 +46,15 @@ I am a UI Architect, Front-end Developer, Designer, and Digital Artist. I am a "
 <a href="https://codesandbox.com/davegillem" target="blank">
 <img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="davegillem" height="30" width="30" />
 </a>
-<a href="https://instagram.com/davegillem" target="blank">
-<img  src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="davegillem" height="30" width="30" />
-</a>
 <a href="https://dribbble.com/davegillem" target="blank">
 <img  src="https://www.vectorlogo.zone/logos/dribbble/dribbble-icon.svg" alt="davegillem" height="30" width="30" />
 </a>
 <a href="https://www.behance.net/davegillem" target="blank">
 <img  src="https://www.vectorlogo.zone/logos/behance/behance-icon.svg" alt="davegillem" height="30" width="30" />
 </a>
+</p>
+
+## Need more?:
+<p align="left">
+Access to private repos for purposes of evaluating my current work and coding expertise available upon request
 </p>
