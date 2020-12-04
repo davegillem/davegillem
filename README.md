@@ -31,24 +31,24 @@ I am a UI Architect, Front-end Developer, Designer, and Digital Artist. I am a "
 
 ## You can find me online at:
 <p align="left">
-<a href="https://codepen.io/davegillem" target="blank">
-<img  src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" alt="davegillem" height="30" width="30" />
-</a>
-<a href="https://dev.to/davegillem" target="blank">
-<img  src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="davegillem" height="30" width="30" />
-</a>
 <a href="https://linkedin.com/in/davegillem" target="blank">
 <img  src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="davegillem" height="30" width="30" />
-</a>
+</a> | 
+<a href="https://codepen.io/davegillem" target="blank">
+<img  src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" alt="davegillem" height="30" width="30" />
+</a> | 
+<a href="https://dev.to/davegillem" target="blank">
+<img  src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="davegillem" height="30" width="30" />
+</a> | 
 <a href="https://stackoverflow.com/users/davegillem" target="blank">
 <img  src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="davegillem" height="30" width="30" />
-</a>
+</a> | 
 <a href="https://codesandbox.com/davegillem" target="blank">
 <img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="davegillem" height="30" width="30" />
-</a>
+</a> | 
 <a href="https://dribbble.com/davegillem" target="blank">
 <img  src="https://www.vectorlogo.zone/logos/dribbble/dribbble-icon.svg" alt="davegillem" height="30" width="30" />
-</a>
+</a> | 
 <a href="https://www.behance.net/davegillem" target="blank">
 <img  src="https://www.vectorlogo.zone/logos/behance/behance-icon.svg" alt="davegillem" height="30" width="30" />
 </a>
