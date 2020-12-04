@@ -18,16 +18,18 @@ I am a UI Architect, Front-end Developer, Designer, and Digital Artist. I am a "
   <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="I know Sketch" width="40" height="40" hspace="20" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="I know Adobe Photoshop" width="40" height="40" hspace="20" />
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="I know Adobe Illustrator" width="40" height="40" hspace="20" />
-
 </p>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=davegillem&layout=compact&hide=html" alt="davegillem" />
 
 
-## I’m currently learning:
+![Dave Gillem's github stats](https://github-readme-stats.vercel.app/api?username=davegillem&show_icons=true&theme=vue-dark&count_private=true&langs_count=5&include_all_commits=true) ![github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=davegillem&show_icons=true&theme=vue-dark&count_private=true&langs_count=5&include_all_commits=true&include_all_commits=true&hide=html) 
+
+<sub><sup><i><b>NOTE:</b> Top languages does not indicate my skill level or preference, it's only a github metric of which languages I have checked in most</i></sup></sub>
+
+### I’m currently learning:
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="Learning Node.js" width="40" height="40" hspace="20" />
-<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="Learning GraphQL" width="40" height="40" hspace="20" />
-  </p>
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="Learning GraphQL" width="40" height="40" hspace="20" />
+</p>
 
 ## You can find me online at:
 <p align="left">
