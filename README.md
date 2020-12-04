@@ -31,25 +31,25 @@ I am a UI Architect, Front-end Developer, Designer, and Digital Artist. I am a "
 
 ## You can find me online at:
 <p align="left">
-<a href="https://linkedin.com/in/davegillem" target="blank">
+<a href="https://linkedin.com/in/davegillem" target="blank" alt="Find me on LinkedIn" >
 <img  src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Find me on LinkedIn" height="30" width="30" hspace="20" />
 </a> 
-<a href="https://codepen.io/davegillem" target="blank">
+<a href="https://codepen.io/davegillem" target="blank" alt="Find me on Codepen" >
 <img  src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" alt="Find me on Codepen" height="30" width="30" hspace="20" />
 </a> 
-<a href="https://dev.to/davegillem" target="blank">
+<a href="https://dev.to/davegillem" target="blank" alt="Find me on Dev.to" >
 <img  src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="Find me on Dev.to" height="30" width="30" hspace="20" />
 </a> 
-<a href="https://stackoverflow.com/users/davegillem" target="blank">
+<a href="https://stackoverflow.com/users/davegillem" target="blank" alt="Find me on Stack Overflow" >
 <img  src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Find me on Stack Overflow" height="30" width="30" hspace="20" />
 </a> 
-<a href="https://codesandbox.com/davegillem" target="blank">
+<a href="https://codesandbox.com/davegillem" target="blank" alt="Find me on CodeSandbox" >
 <img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="Find me on CodeSandbox" height="30" width="30" hspace="20" />
 </a> 
-<a href="https://dribbble.com/davegillem" target="blank">
+<a href="https://dribbble.com/davegillem" target="blank" alt="Find me on Dribbble" >
 <img  src="https://www.vectorlogo.zone/logos/dribbble/dribbble-icon.svg" alt="Find me on Dribbble" height="30" width="30" hspace="20" />
 </a> 
-<a href="https://www.behance.net/davegillem" target="blank">
+<a href="https://www.behance.net/davegillem" target="blank" alt="Find me on Behance" >
 <img  src="https://www.vectorlogo.zone/logos/behance/behance-icon.svg" alt="Find me on Behance" height="30" width="30" hspace="20" />
 </a>
 </p>
