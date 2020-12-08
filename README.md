@@ -40,6 +40,12 @@ I am a UI Architect, Front-end Developer, Designer, and Digital Artist. I am a "
 <p align="left">
 <a href="https://linkedin.com/in/davegillem" target="blank" title="Find me on LinkedIn" >
 <img  src="https://devicons.github.io/devicon/devicon.git/icons/linkedin/linkedin-original.svg" alt="Find me on LinkedIn" height="30" width="30" hspace="20" />
+</a>
+ <a href="https://www.behance.net/davegillem" target="blank" title="Find me on Behance" >
+<img  src="https://devicons.github.io/devicon/devicon.git/icons/behance/behance-original.svg" alt="Find me on Behance" height="30" width="30" hspace="20" />
+</a>
+<a href="https://dribbble.com/davegillem" target="blank" title="Find me on Dribbble" >
+<img  src="https://www.vectorlogo.zone/logos/dribbble/dribbble-icon.svg" alt="Find me on Dribbble" height="30" width="30" hspace="20" />
 </a> 
 <a href="https://codepen.io/davegillem" target="blank" title="Find me on Codepen" >
 <img  src="https://devicons.github.io/devicon/devicon.git/icons/codepen/codepen-plain.svg" alt="Find me on Codepen" height="30" width="30" hspace="20" />
@@ -53,12 +59,6 @@ I am a UI Architect, Front-end Developer, Designer, and Digital Artist. I am a "
 <a href="https://codesandbox.com/davegillem" target="blank" title="Find me on CodeSandbox" >
 <img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="Find me on CodeSandbox" height="30" width="30" hspace="20" />
 </a> 
-<a href="https://dribbble.com/davegillem" target="blank" title="Find me on Dribbble" >
-<img  src="https://www.vectorlogo.zone/logos/dribbble/dribbble-icon.svg" alt="Find me on Dribbble" height="30" width="30" hspace="20" />
-</a> 
-<a href="https://www.behance.net/davegillem" target="blank" title="Find me on Behance" >
-<img  src="https://devicons.github.io/devicon/devicon.git/icons/behance/behance-original.svg" alt="Find me on Behance" height="30" width="30" hspace="20" />
-</a>
 </p>
 
 ## Need more?:
