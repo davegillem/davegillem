@@ -23,6 +23,7 @@ I am a UI Architect, Front-end Developer, Designer, and Digital Artist. I am a "
   <img src="https://devicons.github.io/devicon/devicon.git/icons/less/less-plain-wordmark.svg" alt="I know {less}" width="40" height="40" hspace="20" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="I know Webpack" width="40" height="40" hspace="20" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/babel/babel-original.svg" alt="I know Babel" width="40" height="40" hspace="20" />
+  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg" alt="I know Jest" width="40" height="40" hspace="20" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="I know Bootstrap" width="40" height="40" hspace="20" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-plain-wordmark.svg" alt="I know Git" width="40" height="40" hspace="20" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/sketch/sketch-original.svg" alt="I know Sketch" width="40" height="40" hspace="20" />
