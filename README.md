@@ -42,7 +42,7 @@ I am a UI Architect, Front-end Developer, Designer, and Digital Artist. I am a "
 <img  src="https://devicons.github.io/devicon/devicon.git/icons/linkedin/linkedin-original.svg" alt="Find me on LinkedIn" height="30" width="30" hspace="20" />
 </a> 
 <a href="https://codepen.io/davegillem" target="blank" title="Find me on Codepen" >
-<img  src="https://devicons.github.io/devicon/devicon.git/icons/codepen/codepen-original-wordmark.svg" alt="Find me on Codepen" height="30" width="30" hspace="20" />
+<img  src="https://devicons.github.io/devicon/devicon.git/icons/codepen/codepen-plain.svg" alt="Find me on Codepen" height="30" width="30" hspace="20" />
 </a> 
 <a href="https://dev.to/davegillem" target="blank" title="Find me on Dev.to" >
 <img  src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="Find me on Dev.to" height="30" width="30" hspace="20" />
