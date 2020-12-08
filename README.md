@@ -1,5 +1,5 @@
 
-# <p align='center'><img src="https://www.davegillem.com/images/svg/loadingLogo.svg" alt="DG Logo" width="150" height="150" hspace="20" align='center' />
+# <p align='center'><a href="https://davegillem.com"><img src="https://www.davegillem.com/images/svg/loadingLogo.svg" alt="DG Logo" width="150" height="150" hspace="20" align='center' /></a>
 <h2>Hi, I'm Dave Gillem </h2>
 I am a UI Architect, Front-end Developer, Designer, and Digital Artist. I am a "UI-Guy" by choice, it's what I like, it's what I do.</p>
 
