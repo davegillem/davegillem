@@ -2,8 +2,10 @@
 <h2>Hi, I'm Dave Gillem </h2>
 I am a UI Architect, Front-end Developer, Designer, and Digital Artist. I am a "UI-Guy" by choice, it's what I like, it's what I do.</p>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=davegillem&show_icons=true&theme=vue-dark&count_private=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davegillem&show_icons=true&theme=vue-dark&count_private=true&hide=html"  hspace="10" />
+  <a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=davegillem&show_icons=true&theme=vue-dark&count_private=true" /></a>
+  <a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davegillem&show_icons=true&theme=vue-dark&count_private=true&hide=html"  hspace="10" /></a>
 
 <sub><sup><i><b>NOTE:</b> Top languages does not indicate my skill level or preference, it's only a github metric of which languages I have checked in most</i></sup></sub>
 
