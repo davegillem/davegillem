@@ -38,15 +38,16 @@ I am a UI Architect, Front-end Developer, Designer, and Digital Artist. I am a "
   <a href="#"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="Learning GraphQL" width="40" height="40" hspace="20" /></a>
 </p>
 
-## Find me at:
+## 🔍 Find me at:
 [![Find me on LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/davegillem) 
-[![Find me on GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/davegillem) 
 [![Find me on CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white)](https://codepen.io/davegillem) 
 [![Find me on Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/davegillem) 
 [![Find me on Stack Overflow](https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/davegillem) 
 [![Find me on CodeSandbox](https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](https://codesandbox.com/davegillem) 
 [![Find me on Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=Behance&logoColor=white)](https://www.behance.net/davegillem) 
 [![Find me on Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=Dribbble&logoColor=white)](https://dribbble.com/davegillem) 
+[![Find me on Acclaim](https://img.shields.io/badge/Acclaim-26689A?style=for-the-badge&logo=Acclaim&logoColor=white)](https://www.credly.com/users/dave-gillem) 
+[![Find me on GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/davegillem) 
 
 ## Need more?:
 <p align="left">
