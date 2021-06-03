@@ -38,27 +38,15 @@ I am a UI Architect, Front-end Developer, Designer, and Digital Artist. I am a "
   <a href="#"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="Learning GraphQL" width="40" height="40" hspace="20" /></a>
 </p>
 
-## You can find me online at:
-<p align="left">
-<a href="https://linkedin.com/in/davegillem" target="blank" title="Find me on LinkedIn" >
-<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Find me on LinkedIn" height="30" width="30" hspace="20" />
-</a>
-<a href="https://codepen.io/davegillem" target="blank" title="Find me on Codepen" >
-<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg" alt="Find me on Codepen" height="30" width="30" hspace="20" />
-</a>
-<a href="https://dev.to/davegillem" target="blank" title="Find me on Dev.to" >
-<img  src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="Find me on Dev.to" height="30" width="30" hspace="20" /></a>
-<a href="https://stackoverflow.com/users/davegillem" target="blank" title="Find me on Stack Overflow" >
-<img  src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Find me on Stack Overflow" height="30" width="30" hspace="20" /></a>
-<a href="https://codesandbox.com/davegillem" target="blank" title="Find me on CodeSandbox" >
-<img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="Find me on CodeSandbox" height="30" width="30" hspace="20" /></a>
-<a href="https://github.com/davegillem" target="blank" title="Find me on Github" >
-<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Find me on Github" height="30" width="30" hspace="20" /></a>
-<a href="https://www.behance.net/davegillem" target="blank" title="Find me on Behance" >
-<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/behance/behance-original.svg" alt="Find me on Behance" height="30" width="30" hspace="20" /></a>
-<a href="https://dribbble.com/davegillem" target="blank" title="Find me on Dribbble" >
-<img  src="https://www.vectorlogo.zone/logos/dribbble/dribbble-icon.svg" alt="Find me on Dribbble" height="30" width="30" hspace="20" /></a>
-</p>
+## Find me at:
+[![Find me on LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/davegillem) 
+[![Find me on GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/davegillem) 
+[![Find me on CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white)](https://codepen.io/davegillem) 
+[![Find me on Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/davegillem) 
+[![Find me on Stack Overflow](https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/davegillem) 
+[![Find me on CodeSandbox](https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](https://codesandbox.com/davegillem) 
+[![Find me on Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=Behance&logoColor=white)](https://www.behance.net/davegillem) 
+[![Find me on Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=Dribbble&logoColor=white)](https://dribbble.com/davegillem) 
 
 ## Need more?:
 <p align="left">
