@@ -1,4 +1,4 @@
-# <p align='center'><a href="https://davegillem.com"><a href="#"><img src="https://www.davegillem.com/images/svg/loadingLogo.svg" alt="DG Logo" width="150" height="150" hspace="20" align='center' /></a>
+# <p align='center'><a href="https://davegillem.com"><a href="#"><img src="https://www.davegillem.com/images/dg-gh-banner.png" alt="DG Logo" align='center' /></a>
 <h2>Hi, I'm Dave Gillem </h2>    
 <p align="center">
   I am a UI Architect, Front-end Developer, Designer, and Digital Artist with over 22 years experience. I am a "UI-Guy" by choice, it's what I like, it's what I do. I am well versed in any aspect of the user experience whether that be from a design, development, strategy, direction, management or marketing perspective. I pride myself on being able to see the big picture without losing the details and feel there is a place for both pragmatic and creative thinking with every project. I enjoy solving problems no matter what their nature. I am a natural teacher, excellent communicator, and proven leadership track record. Experienced with working across multiple disciplines and roles.
