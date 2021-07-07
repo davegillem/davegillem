@@ -4,7 +4,7 @@
   I am a UI Architect, Front-end Developer, Designer, and Digital Artist with over 22 years experience. I am a "UI-Guy" by choice, it's what I like, it's what I do. I am well versed in any aspect of the user experience whether that be from a design, development, strategy, direction, management or marketing perspective. I pride myself on being able to see the big picture without losing the details and feel there is a place for both pragmatic and creative thinking with every project. I enjoy solving problems no matter what their nature. I am a natural teacher, excellent communicator, and proven leadership track record. Experienced with working across multiple disciplines and roles.
 </p> 
 
-  <h2 align="center">:computer: My Stats</h2>
+  <h2 align="center">:octocat: GitHub Stats</h2>
   <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=davegillem&show_icons=true&theme=vue-dark&count_private=true" /></a>
   <a href="#">
@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white"/>
   <img src="https://img.shields.io/badge/-React%20Testing%20Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
   <!-- <img src="https://img.shields.io/badge/-Handlebars-black?style=flat-square&logo=handlebars&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/-Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -39,7 +40,7 @@
   <img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
 </p>
 
-<h2 align="center">Find me elsewhere</h2>
+<h2 align="center">:link: Find me elsewhere</h2>
 
 <p align="center">
 <a href="https://linkedin.com/in/davegillem" target="_blank"><img alt="Find me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a> 
@@ -53,7 +54,7 @@
 <a href="https://github.com/davegillem" target="_blank"><img alt="Find me on GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" /></a> 
 </p>
 
-<h2 align="center">:octocat: Need more?</h2>
+<h2 align="center">:lock: Need more?</h2>
 
 <p align="center">
 Access to private repos for purposes of evaluating my current work and coding expertise available upon request
