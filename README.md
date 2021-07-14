@@ -5,9 +5,9 @@
 I am a UI Architect, Front-end Developer, Designer, and Digital Artist with over 22 years experience. I am a "UI-Guy" by choice, it's what I like, it's what I do. I am well versed in any aspect of the user experience whether that be from a design, development, strategy, direction, management or marketing perspective. I pride myself on being able to see the big picture without losing the details and feel there is a place for both pragmatic and creative thinking with every project. I enjoy solving problems no matter what their nature. I am a natural teacher, excellent communicator, and proven leadership track record. Experienced with working across multiple disciplines and roles.
 
   <a href="#">
-  <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api?username=davegillem&show_icons=true&theme=vue-dark&count_private=true&hide_title=true&hide_border=true" /></a>
+  <img align="center" height="137px" src="https://github-readme-stats.vercel.app/api?username=davegillem&show_icons=true&theme=vue-dark&count_private=true&hide_title=true&hide_border=true" /></a>
   <a href="#">
-  <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davegillem&show_icons=true&theme=vue-dark&count_private=true&hide=html&langs_count=6&hide_title=true&hide_border=true&layout=compact"  hspace="10" /></a>
+  <img align="center" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davegillem&show_icons=true&theme=vue-dark&count_private=true&hide=html&langs_count=6&hide_title=true&hide_border=true&layout=compact"  hspace="10" /></a>
   
 ### Languages
 
