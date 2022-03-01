@@ -50,6 +50,7 @@ I am a UI Architect, Front-end Developer, Designer, and Digital Artist with over
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/davegillem)
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/davegillem)
 [![CodeSandbox](https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](https://codesandbox.com/davegillem)
+[![Codewars](https://img.shields.io/badge/codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/davegillem)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=Behance&logoColor=white)](https://www.behance.net/davegillem)
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=Dribbble&logoColor=white)](https://dribbble.com/davegillem)
 [![Acclaim](https://img.shields.io/badge/Acclaim-26689A?style=for-the-badge&logo=Acclaim&logoColor=white)](https://www.credly.com/users/dave-gillem)
