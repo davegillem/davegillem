@@ -8,6 +8,10 @@ I am a UI Architect, Front-end Developer, Designer, and Digital Artist with over
   <img align="center" height="133px" src="https://github-readme-stats.vercel.app/api?username=davegillem&show_icons=true&theme=vue-dark&count_private=true&hide_title=true&hide_border=true" /></a>
 <a href="#">
   <img align="center" height="133px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davegillem&show_icons=true&theme=vue-dark&count_private=true&hide=html&langs_count=6&hide_title=true&hide_border=true&layout=compact"  hspace="10" /></a>
+  <br /><br />
+<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=davegillem&theme=vue-dark&hide_border=true&fire=FDDF68&sideLabels=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF" /></a> 
+<!--   
+  [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1732723&layout=compact&theme=dark)](https://stackoverflow.com/users/1732723/dave-gillem) -->
   
 ### Languages
 
@@ -57,7 +61,7 @@ I am a UI Architect, Front-end Developer, Designer, and Digital Artist with over
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/davegillem)
 [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white)](https://codepen.io/davegillem)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/davegillem)
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/davegillem)
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/1732723/dave-gillem)
 [![CodeSandbox](https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](https://codesandbox.com/davegillem)
 [![Codewars](https://img.shields.io/badge/codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/davegillem)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=Behance&logoColor=white)](https://www.behance.net/davegillem)
