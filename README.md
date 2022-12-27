@@ -4,16 +4,19 @@
 
 I am a UI Architect, Front-end Developer, Designer, and Digital Artist with over 22 years experience. I am a "UI-Guy" by choice, it's what I like, it's what I do. I am well versed in any aspect of the user experience whether that be from a design, development, strategy, direction, management or marketing perspective. I pride myself on being able to see the big picture without losing the details and feel there is a place for both pragmatic and creative thinking with every project. I enjoy solving problems no matter what their nature. I am a natural teacher, excellent communicator, and proven leadership track record. Experienced with working across multiple disciplines and roles.
 
-
-<a href="#">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=davegillem&theme=vue-dark&hide_border=true&fire=FDDF68&sideLabels=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF" />
-</a>
+<p align="center">
   <a href="#">
- <img align="center" height="133px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davegillem&show_icons=true&theme=vue-dark&count_private=true&hide=html&langs_count=6&hide_title=true&hide_border=true&layout=compact"  valign='top' />
-</a>
-<a href="#">
-  <img align="center" height="133px" src="https://github-readme-stats.vercel.app/api?username=davegillem&show_icons=true&theme=vue-dark&count_private=true&hide_title=true&hide_border=true&hide=stars,issues,contribs,prs&card_width=400" valign='top' />
-</a>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=davegillem&theme=vue-dark&hide_border=true&fire=FDDF68&sideLabels=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF" align="center" />
+  </a>
+<p/>
+<p align="left">
+  <a href="#">
+   <img height="133px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davegillem&show_icons=true&theme=vue-dark&count_private=true&hide=html&langs_count=6&hide_title=true&hide_border=true&layout=compact"  valign='top' />
+  </a>
+  <a href="#">
+    <img height="133px" src="https://github-readme-stats.vercel.app/api?username=davegillem&show_icons=true&theme=vue-dark&count_private=true&hide_title=true&hide_border=true&hide=stars,issues,contribs,prs" valign='top' />
+  </a>
+</p>
 
 <!--   
   [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1732723&layout=compact&theme=dark)](https://stackoverflow.com/users/1732723/dave-gillem) -->
