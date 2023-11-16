@@ -10,7 +10,7 @@ I am a UI Architect, Front-end Developer, Designer, and Digital Artist with over
 <!--     <img height="133px" src="https://github-readme-stats.vercel.app/api?username=davegillem&show_icons=true&theme=vue-dark&count_private=true&hide_title=true&hide_border=true&hide=stars,issues,contribs,prs" valign='top' /> -->
   </a>
 </p>
-
+<a href="https://wakatime.com/@315abe09-f963-4676-84e6-06855b9fa160"><img src="https://wakatime.com/badge/user/315abe09-f963-4676-84e6-06855b9fa160.svg" alt="Total time coded since Aug 25 2022" /></a>
 <!--   
   [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1732723&layout=compact&theme=dark)](https://stackoverflow.com/users/1732723/dave-gillem) -->
   
