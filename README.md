@@ -17,10 +17,11 @@ I am a UI Architect, Front-end Developer, Designer, and Digital Artist with over
   
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=333333)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=333333)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 ---
 ### Technologies
 
@@ -44,22 +45,27 @@ I am a UI Architect, Front-end Developer, Designer, and Digital Artist with over
 ![MobX](https://img.shields.io/badge/-MobX-FF9955?style=for-the-badge&logo=mobx&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Mui](https://img.shields.io/badge/-Mui-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
 ---
 
 ### Tooling
 
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Sketch](https://img.shields.io/badge/-Sketch-F7B500?style=for-the-badge&logo=Sketch&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Sketch](https://img.shields.io/badge/-Sketch-F7B500?style=for-the-badge&logo=Sketch&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Datadog](https://img.shields.io/badge/-Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
 ---
 ### Find me elsewhere
 
-[![DaveGillem.com](https://img.shields.io/badge/DaveGillem.com-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://davegillem.com)
+[![DaveGillem.com](https://img.shields.io/badge/DaveGillem.com-1a3c40?style=for-the-badge&logo=googlechrome&logoColor=white)](https://davegillem.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/davegillem)
 [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white)](https://codepen.io/davegillem)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/davegillem)
@@ -68,7 +74,8 @@ I am a UI Architect, Front-end Developer, Designer, and Digital Artist with over
 [![Codewars](https://img.shields.io/badge/codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/davegillem)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=Behance&logoColor=white)](https://www.behance.net/davegillem)
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=Dribbble&logoColor=white)](https://dribbble.com/davegillem)
-[![Acclaim](https://img.shields.io/badge/Acclaim-26689A?style=for-the-badge&logo=Acclaim&logoColor=white)](https://www.credly.com/users/dave-gillem)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/dave-gillem)
+
 ---
 ### Need more?
 
