@@ -1,6 +1,6 @@
-# <p align='center'><a href="https://davegillem.com"><a href="#"><img src="https://www.davegillem.com/images/davegillem-banner-gh.png" alt="DG Logo" align='center' /></a>
+# <p align='center'><a href="https://davegillem.com"><a href="#"><img src="https://github.com/davegillem/davegillem_com/blob/develop/public/images/davegillem-banner-gh.png?raw=true" alt="DG Logo" align='center' /></a>
   
-## <a href="#"><img src="https://www.davegillem.com/images/davegillem-avatar-wm-sm.png" alt="DG Logo" align='center' style="vertical-align: middle" width='45px'/></a>&nbsp;&nbsp;&nbsp;  Hey there, I'm Dave Gillem...
+## <a href="#"><img src="https://github.com/davegillem/davegillem_com/blob/develop/public/images/davegillem-avatar-wm-sm.png?raw=true" alt="DG Logo" align='center' style="vertical-align: middle" width='45px'/></a>&nbsp;&nbsp;&nbsp;  Hey there, I'm Dave Gillem...
 
 I am a UI Architect, Front-end Developer, Designer, and Digital Artist with over 25 years of experience. I am a "UI-Guy" by choice, it's what I like, it's what I do. I am well versed in any aspect of the user experience whether that be from a design, development, strategy, direction, management, or marketing perspective. I pride myself on being able to see the big picture without losing the details and I feel there is a place for both pragmatic and creative thinking in every project. I enjoy solving problems no matter what their nature. I am a natural teacher, and an excellent communicator, and proven leadership track record. I am experienced with working across multiple disciplines and roles.
 
