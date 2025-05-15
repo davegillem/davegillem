@@ -90,8 +90,6 @@ React • TypeScript • Accessibility • Component Systems • Mentorship • 
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/1732723/dave-gillem)
 [![CodeSandbox](https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](https://codesandbox.com/davegillem)
 [![Codewars](https://img.shields.io/badge/codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/davegillem)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=Behance&logoColor=white)](https://www.behance.net/davegillem)
-[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=Dribbble&logoColor=white)](https://dribbble.com/davegillem)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/dave-gillem)
 
 ---
