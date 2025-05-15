@@ -2,8 +2,6 @@
   
 ## <a href="#"><img src="https://github.com/davegillem/davegillem_com/blob/develop/public/images/davegillem-avatar-wm-sm.png?raw=true" alt="DG Logo" align='center' style="vertical-align: middle" width='45px'/></a>&nbsp;&nbsp;&nbsp;  Hey there, I'm Dave Gillem...
 
-# Hi, I'm Dave Gillem
-
 Senior Front-End Engineer & UI Architect with 25+ years of experience building scalable, accessible, and user-focused web apps.
 
 I lead calmly, mentor consistently, and focus on creating systems that empower both users and developers. I’ve built front-end architectures that scale across teams, reduce tech debt, and drive long-term velocity — all without ego.
