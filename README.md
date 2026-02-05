@@ -22,13 +22,13 @@ React • TypeScript • Accessibility • Component Systems • Mentorship • 
 - Systems that enable others  
 - Quiet, trusted leadership  
 
-   <img height="133px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davegillem&show_icons=true&theme=vue-dark&count_private=true&hide=html&hide_title=true&hide_border=true&layout=compact&card_width=700"  valign='top' />
-<p align='center'>
+  <!-- <img height="133px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davegillem&show_icons=true&theme=vue-dark&count_private=true&hide=html&hide_title=true&hide_border=true&layout=compact&card_width=700"  valign='top' /> -->
+<!--<p align='center'>
   <a href="#">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=davegillem&theme=vue-dark&hide_border=true&fire=FDDF68&sideLabels=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF" />
-<!--     <img height="133px" src="https://github-readme-stats.vercel.app/api?username=davegillem&show_icons=true&theme=vue-dark&count_private=true&hide_title=true&hide_border=true&hide=stars,issues,contribs,prs" valign='top' /> -->
+<img height="133px" src="https://github-readme-stats.vercel.app/api?username=davegillem&show_icons=true&theme=vue-dark&count_private=true&hide_title=true&hide_border=true&hide=stars,issues,contribs,prs" valign='top' />
   </a>
-</p>
+</p> -->
 <a href="https://wakatime.com/@315abe09-f963-4676-84e6-06855b9fa160"><img src="https://wakatime.com/badge/user/315abe09-f963-4676-84e6-06855b9fa160.svg" alt="Total time coded since Aug 25 2022" /></a>
 <!--   
   [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1732723&layout=compact&theme=dark)](https://stackoverflow.com/users/1732723/dave-gillem) -->
