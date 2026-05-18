@@ -1,6 +1,6 @@
-# <p align='center'><a href="https://davegillem.com"><a href="#"><img src="https://github.com/davegillem/davegillem_com/blob/develop/public/images/davegillem-banner-gh.png?raw=true" alt="DG Logo" align='center' /></a>
+# <p align='center'><a href="https://davegillem.com"><a href="#"><img src="assets/davegillem-banner-gh.png" alt="DG Logo" align='center' /></a>
   
-## <a href="#"><img src="https://github.com/davegillem/davegillem_com/blob/develop/public/images/davegillem-avatar-wm-sm.png?raw=true" alt="DG Logo" align='center' style="vertical-align: middle" width='45px'/></a>&nbsp;&nbsp;&nbsp;  Hey there, I'm Dave Gillem...
+## <a href="#"><img src="assets/davegillem-avatar-wm-sm.png" alt="DG Logo" align='center' style="vertical-align: middle" width='45px'/></a>&nbsp;&nbsp;&nbsp;  Hey there, I'm Dave Gillem...
 
 Senior Front-End Engineer & UI Architect with 25+ years of experience building scalable, accessible, and user-focused web apps.
 
